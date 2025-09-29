@@ -5,28 +5,27 @@ You're a new singer looking to make a name for yourself and make a living no mat
 
 [Click start to begin]
 
-display a crossroad with 2 buttons
+
 What genre are you planning to do?
  [Rock] [Pop] [Country] -- leads to the first story path
 
-a button that says next with the outcome
 
 You have chosen Rock
 Now to choose a sub genre for rock
+
+Click next to continue 
+[Next]
 ________________________________________________________________________________________________________________________________________________
 
 You have chosen Pop
 Now to choose a group or go solo
+Click next to continue 
+[Next]
 ________________________________________________________________________________________________________________________________________________
 You have chosen Country
 Now to choose a sub genre
-________________________________________________________________________________________________________________________________________________
-You have chosen Hip/Hop
-Now to choose a group or go solo
-
 Click next to continue 
 [Next]
-
 ________________________________________________________________________________________________________________________________________________
 
 --Rock
