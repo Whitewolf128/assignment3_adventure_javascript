@@ -1,7 +1,50 @@
+#start{
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+}
 #next-btn, #retry{
     display: none;
+    color: white;
+    background-color: green;
+    border-radius: 6px;
 }
-
+/*changes the buttons themselves*/
 #one, #two, #three{
     display: none;
+    color: white;
+    background-color: green;
+    margin: 5px;
+    border-radius: 6px;
+    width: 150px;
 }
+body{
+    background-color: #6a6a6a;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#game-container{
+    width: 1000px;
+    height: 220px;
+    max-height: 80%;
+    max-width: 80%;
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px 5px;
+}
+#answers{
+    display: grid;
+    grid-auto-flow: column;
+
+}
+
+
