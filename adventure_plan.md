@@ -207,15 +207,13 @@ ________________________________________________________________________________
 You perform great on tour and get more fans, and you keep going for 60 years before calling quits 
 
 The best ending
-Click next to continue 
-[Next]
+[Do you want to try again?]
 ________________________________________________________________________________________________________________________________________________
 No:
 The big bands say you "you probably wont last much longer on your own" and those words end up coming true, after about 7 years you are forced to break up.
 
 The worst ending
-Click next to continue 
-[Next]
+[Do you want to try again?]
 _______________________________________________________________________________________________________________________________________________
 Club:
 after about 10 years after playing at clubs your band fizzles out to younger bands but are still able to do a final show, will you do it or not?
@@ -340,9 +338,9 @@ Nightclub ending
 [Do you want to try again?]
 _______________________________________________________________________________________________________________________________________________
 stage:
-You decide to perform live and fans love the liveliness of your music which propells you to play for 25 more years.
+You decide to perform on stage, with your methods it lasts a good 50 years before retiring.
 
-Stage ending
+Long career ending.
 [Do you want to try again?]
 _______________________________________________________________________________________________________________________________________________
 Group: 
@@ -391,7 +389,7 @@ ________________________________________________________________________________
 No:
 You tell your manager that that is not a great idea, the manager is bitter and the band is relieved.
 
-relief and bitterness ending
+Staying in your lane ending.
 [Do you want to try again?]
 _______________________________________________________________________________________________________________________________________________
 --Country
@@ -489,7 +487,7 @@ ________________________________________________________________________________
 No:
 You do not want to go to tennesee for a trophy which could hurt you in the future
 
-Shameful ending
+Missed opportunity ending.
 [Do you want to try again?]
 _______________________________________________________________________________________________________________________________________________
 International:
@@ -499,13 +497,12 @@ ________________________________________________________________________________
 Yes:
 You go to the CMA and recieve a award.
 
-Rewarding ending
+Honored ending
 [Do you want to try again?]
 _______________________________________________________________________________________________________________________________________________
 No:
-You dont go to the CMA, it may hurt you down the road
+You do not go to the CMA and feel like you missed out on a great opportunity. 
 
-Disgraceful ending
+Regretful ending.
 [Do you want to try again?]
-
 _______________________________________________________________________________________________________________________________________________
