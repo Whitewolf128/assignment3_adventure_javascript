@@ -332,7 +332,7 @@ function renderQuestion(option){
                                                                             btnNext.style.display = "none";
                                                                             btnRetry.style.display = "block";
 
-                                                                            para.textContent = "You and the rest of the band work it out as you tell them that you want to do a few more albums but not perform them live, they say its ok but are very reluctant.<br><br>you make 3 more albums before breaking up.<br>The reluctant ending.";
+                                                                            para.textContent = "You and the rest of the band work it out as you tell them that you want to do a few more albums but not perform them live, they say its ok but are very reluctant. you make 3 more albums before breaking up. The reluctant ending.";
                                                                             btnRetry.addEventListener('click', load);
                                                                         }
                                                                     });
