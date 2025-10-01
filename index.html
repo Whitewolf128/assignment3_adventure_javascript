@@ -1,12 +1,17 @@
+<!--Start the new document-->
 <!DOCTYPE html>
+<!--setup the main document and make it in english-->
 <html lang="en">
+    <!--make a head tag and add a stylesheet-->
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Adventure Game</title>
         <link rel="stylesheet" href="styles.css" />
     </head>
+    <!--Start the body for displaying text-->
     <body>
+        <!--Setup the header part-->
         <div id="game-container" tabindex="1">
             <h1 tabindex="2">Choose your adventure Game</h1>
             <div id="question-container" tabindex="3">
@@ -14,6 +19,7 @@
                 </p>
                 <button id="start" tabindex="5"></button>
             </div>
+            <!--Make up a button layout and finish off with a footer-->
             <div id="answers" tabindex="6">
                 <!-- Answer buttons will be injected here by JavaScript -->
                  <button id="one" tabindex="7"></button>
@@ -23,11 +29,12 @@
                         <p>&copy; 2025 all rights reserved Zachary Ross</p>
                  </footer>
             </div>
+            <!--two buttons for retrying and next to be called upon-->
             <button id="next-btn" tabindex="10">Next</button>
             <button id="retry" tabindex="11">Do you want to try again?</button>
         
         </div>
+        <!--the javascript that adds the main functionality-->
         <script src="script.js"></script>
-        
     </body>
 </html>
