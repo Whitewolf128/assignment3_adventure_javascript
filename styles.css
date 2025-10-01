@@ -44,7 +44,7 @@ body{
 #answers{
     display: grid;
     grid-auto-flow: column;
-
+    
 }
 
 
