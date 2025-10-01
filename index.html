@@ -7,22 +7,27 @@
         <link rel="stylesheet" href="styles.css" />
     </head>
     <body>
-        <div id="game-container">
-            <h1>Choose your adventure Game</h1>
-            <div id="question-container">
-                <p id="scene">
+        <div id="game-container" tabindex="1">
+            <h1 tabindex="2">Choose your adventure Game</h1>
+            <div id="question-container" tabindex="3">
+                <p id="scene" tabindex="4">
                 </p>
-                <button id="start"></button>
+                <button id="start" tabindex="5"></button>
             </div>
-            <div id="answers">
+            <div id="answers" tabindex="6">
                 <!-- Answer buttons will be injected here by JavaScript -->
-                 <button id="one"></button>
-                 <button id="two"></button>
-                 <button id="three"></button>
+                 <button id="one" tabindex="7"></button>
+                 <button id="two" tabindex="8"></button>
+                 <button id="three" tabindex="9"></button>
+                 <footer>
+                        <p>&copy; 2025 all rights reserved Zachary Ross</p>
+                 </footer>
             </div>
-            <button id="next-btn">Next</button>
-            <button id="retry">Do you want to try again?</button>
+            <button id="next-btn" tabindex="10">Next</button>
+            <button id="retry" tabindex="11">Do you want to try again?</button>
+        
         </div>
         <script src="script.js"></script>
+        
     </body>
 </html>
